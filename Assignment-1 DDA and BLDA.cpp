@@ -1,7 +1,4 @@
-/*
-	Name : Anand Prakash Dwivedi
-	Roll No : 7211
-	
+/*	
 	ASSIGNMENT-1
 	Problem Statement : 
 		Write C++ program to draw line using DDA and Bresenham‘s 		
