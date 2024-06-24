@@ -1,6 +1,3 @@
-// name-muskan
-//roll no-7235
-
 #include<iostream>
 #include<vector>
 #include<math.h>
