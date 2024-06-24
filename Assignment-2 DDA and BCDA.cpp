@@ -1,6 +1,4 @@
 /*
-	Name : Anand Prakash Dwivedi
-	Roll No : 7211
 	
 	ASSIGNMENT-2
 	Problem Statement : 
